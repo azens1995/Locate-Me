@@ -1,5 +1,7 @@
 {
   "name": "testGps",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
